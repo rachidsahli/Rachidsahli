@@ -5,7 +5,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@ton_profil)
 
 I'm a student in data science, specializing in data mining and statistical modeling at Université Paris Cité📚🎓.<br>
-I'm doing a work-study program at a French national institute for statistical and economic studies 🇫🇷.
+I'm doing a work-study program at a French national institute for statistical and economic studies 🇫🇷.<br>
 I'm curious about AI and Deep Learning 🧠
 
 
