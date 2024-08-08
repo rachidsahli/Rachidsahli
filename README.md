@@ -7,10 +7,14 @@
 
 ## 📊 Mes Statistiques GitHub
 
-<div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachidsahli&show_icons=true&theme=radical)
-  
-  ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachidsahli&layout=compact&theme=radical)
-
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <strong>📊 Mes Statistiques GitHub</strong><br>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api?username=rachidsahli&show_icons=true&theme=radical" alt="GitHub Stats">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachidsahli&layout=compact&theme=radical" alt="Top Langages">
+    </td>
+  </tr>
+</table>
