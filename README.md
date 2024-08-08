@@ -14,12 +14,10 @@ Très curieux, l'IA, la vision par ordinateur, la robotique ou encore le deep le
 <table>
   <tr>
     <td align="center" valign="top">
-      <strong>📊 Mes Statistiques GitHub</strong><br>
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=rachidsahli&show_icons=true&theme=radical" alt="GitHub Stats">
     </td>
     <td align="center" valign="top">
-      <strong>💻 Langages principaux</strong><br>
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachidsahli&layout=compact&theme=radical" alt="Top Langages">
     </td>
