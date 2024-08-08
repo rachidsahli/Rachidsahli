@@ -13,6 +13,9 @@
       <strong>📊 Mes Statistiques GitHub</strong><br>
       <br>
       <img src="https://github-readme-stats.vercel.app/api?username=rachidsahli&show_icons=true&theme=radical" alt="GitHub Stats">
+    </td>
+    <td align="center" valign="top">
+      <strong>💻 Langages principaux</strong><br>
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachidsahli&layout=compact&theme=radical" alt="Top Langages">
     </td>
