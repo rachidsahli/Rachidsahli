@@ -11,15 +11,6 @@ I'm curious about AI and Deep Learning 🧠
 
 ## 📊 Mes Statistiques
 
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=rachidsahli&show_icons=true&theme=radical" alt="GitHub Stats">
-    </td>
-    <td align="center" valign="top">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachidsahli&layout=compact&theme=radical" alt="Top Langages">
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachidsahli&show_icons=true&theme=radical)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=rachidsahli&layout=compact&theme=radical)
