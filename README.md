@@ -6,7 +6,7 @@
 
 I'm a student in data science, specializing in data mining and statistical modeling at Université Paris Cité📚🎓.<br>
 I'm doing a work-study program at a French national institute for statistical and economic studies 🇫🇷.<br>
-I'm curious about AI and Deep Learning 🧠
+I'm curious about AI, Deep Learning and Robotics 🧠
 
 
 ## 📊 Mes Statistiques
