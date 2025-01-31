@@ -23,3 +23,7 @@ I'm curious about AI, Deep Learning and Robotics 🧠
     </td>
   </tr>
 </table>
+
+<br>
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=rachidsahli)
