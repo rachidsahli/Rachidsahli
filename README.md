@@ -26,4 +26,5 @@ I'm curious about AI, Deep Learning and Robotics 🧠
 
 <br>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=rachidsahli)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
