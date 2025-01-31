@@ -23,7 +23,3 @@ I'm curious about AI, Deep Learning and Robotics 🧠
     </td>
   </tr>
 </table>
-
-### 🐍 Contribution Graph  
-![Snake animation](https://github.com/rachidsahli/rachidsahli/blob/output/github-contribution-grid-snake.svg)
-
